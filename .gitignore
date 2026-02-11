@@ -1,0 +1,21 @@
+# Xcode
+DerivedData/
+DerivedDataDevice/
+*.xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.swp
+.DS_Store
+
+# SwiftPM
+.build/
+Package.resolved
+
+# Logs
+*.xcactivitylog
